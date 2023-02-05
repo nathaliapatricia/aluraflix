@@ -1,0 +1,70 @@
+body {
+    font-family: Poppins;
+    color: #ffffff;
+    text-align: center;
+    background-color: #111111;
+
+    
+  }
+   
+  .container {
+    text-align: center;
+    padding: 20px;
+    justify-content: center;
+  }
+  
+  .page-title {
+    font-family: "Roboto Mono", monospace;
+    color: #ffffff;
+    margin: 0 0 10px;
+  }
+  
+  .page-subtitle {
+    color: #ffffff;
+    margin-top: 5px;
+  }
+  
+  .page-logo {
+    width: 180px;
+  }
+  
+  .alura-logo {
+    width: 40px;
+    position: absolute;
+    top: 30px;
+    right: 30px;
+  }
+  
+
+
+  body > img {
+    margin: 10px 0px;
+  }
+  
+  img {
+    max-height: 350px;
+
+  }
+  
+  .bloco{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+  .animes{
+    justify-content: center;
+     padding: 2%;
+     display: block;
+     max-width: 30%;
+  }
+
+  .texto{
+    text-align: center;
+    font-size: 14px;
+}
+
+.title{
+  font-size: 28px;
+  font-weight: 400;
+}
