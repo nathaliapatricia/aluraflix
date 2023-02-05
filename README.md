@@ -10,4 +10,4 @@ Obs: Durante as aulas eles utilizaram o codepen.io para o desenvolvimento porém
 <h3> <b>Conheça mais sobre a Alura ao <a href="https://www.alura.com.br/?gclid=CjwKCAiAleOeBhBdEiwAfgmXf_gVFjlwvLCH6KucyyQGLCLOPl-LCRRzbyKqQhu8Tt_g3HDPzgc8mxoCqPYQAvD_BwE">clicar aqui.</a> </h3></b>
 
 
-<p> Projeto desenvolvido no dia 04/02 e 05/02 </p>
+<p> Projeto desenvolvido noos dias 04/02/2023 e 05/02/2023</p>
